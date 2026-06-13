@@ -65,7 +65,7 @@ The goal was to identify, analyze, and exploit vulnerabilities in realistic envi
 
 **Creative IT Institute**  
 Mentor: Rafsan Anwar  
-Phone:+88 01312-001312  
+Phone: 01312-001312  
 Email: rafsan.cit.bd@gmail.com
 
 ---
