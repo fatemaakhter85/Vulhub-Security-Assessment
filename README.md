@@ -57,7 +57,7 @@ The goal was to identify, analyze, and exploit vulnerabilities in realistic envi
 
 ## 📄 Full Report
 
-👉 [Click here to view the full PDF report](./report.pdf)
+👉 [Click here to view the full PDF report](https://drive.google.com/file/d/1CoV3hPamLCpy3o1PyJLcV_fTWEcUdcxM/view?usp=drive_link)
 
 ---
 
