@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-This project is a comprehensive **Vulnerability Analysis and Exploitation** assessment conducted on **VulHub** virtual machines. The assessment was performed as part of the Career Advancement Programme (CAP) in Cybersecurity at Creative IT Institute.
+This is a comprehensive **Vulnerability Analysis and Exploitation** report conducted on **VulHub** virtual machines. The assessment was performed as part of the Career Advancement Programme (CAP) in Cybersecurity at Creative IT Institute.
 
 The goal was to identify, analyze, and exploit vulnerabilities in realistic environments using industry-standard methodologies including **OWASP Testing Guide** and **Penetration Testing Execution Standard (PTES)**.
 
@@ -28,15 +28,15 @@ The goal was to identify, analyze, and exploit vulnerabilities in realistic envi
 
 | # | Target | Type |
 |---|--------|------|
-| 01 | The Planets: Earth | Vulnerable VM (VulnHub) |
+| 01 | The Planets: Earth | Vulnerable VM — Privilege Escalation |
 | 02 | Jangow: 1.0.1 | CTF Machine — Privilege Escalation |
-| 03 | Metasploitable: 2 | vsftpd 2.3.4 Exploitation |
+| 03 | Metasploitable: 2 | vsftpd 2.3.4 Backdoor Exploitation |
 
 ---
 
 ## 🧰 Methodology & Tools Used
 
-- **Reconnaissance** — Network scanning, enumeration
+- **Reconnaissance** — Network scanning, service enumeration
 - **Vulnerability Scanning** — Nessus Web App Scanner
 - **Exploitation** — Metasploit, Manual techniques
 - **Privilege Escalation** — Gaining root access
@@ -44,20 +44,21 @@ The goal was to identify, analyze, and exploit vulnerabilities in realistic envi
 
 ---
 
-## 📅 Timeline
+## 📋 Testing Methodology
 
-| Week | Activity |
-|------|----------|
-| Week 1-2 | Vulnerability Scanning |
-| Week 3-4 | Exploitation & Documentation |
-| Week 5 | Report Preparation |
-| Week 6 | Final Review & Delivery |
+| Phase | Activity |
+|-------|----------|
+| Reconnaissance | Network scanning and enumeration |
+| Vulnerability Identification | Detect vulnerabilities using penetration testing tools |
+| Vulnerability Analysis | Analyze and classify based on impact and risk |
+| Exploitation | Demonstrate exploitation in a controlled environment |
+| Reporting | Document findings and recommend mitigations |
 
 ---
 
 ## 📄 Full Report
 
-👉 Click here to view the full PDF report
+👉 [Click here to view the full PDF report](https://github.com/fatemaakhter85/Vulhub-Security-Assessment/blob/main/report.pdf)
 
 ---
 
